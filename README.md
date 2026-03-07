@@ -61,7 +61,7 @@ A Python program that manages deposits, withdrawals, and transaction history usi
 ---
 
 ⭐ *"Code, Learn, Build, Repeat."*
-
+.
 
 <!--
 **Allankw-dev/Allankw-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
