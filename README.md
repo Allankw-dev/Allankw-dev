@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I enjoy building software solutions, exploring art
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me.
 
 * 🎓 Studying Computer Science
 * 🤖 Interested in Artificial Intelligence and Software Development
