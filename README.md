@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I enjoy building software solutions, exploring art
 * 🤖 Interested in Artificial Intelligence and Software Development
 * 🧠 Currently learnt advanced Python and system design
 * 🔧 I enjoy building real-world applications
-* 📚 Always learning new technologies.
+* 📚 Always learning new technologies..
 
 ---
 
