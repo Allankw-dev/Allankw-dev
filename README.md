@@ -1,4 +1,4 @@
-## Hi there ..👋
+## Hi there ...👋
 # Hi 👋, I'm Allan Kamau..
 
 💻 Aspiring Software Developer | AI Enthusiast | Computer Science Student
