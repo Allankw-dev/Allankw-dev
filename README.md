@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I enjoy building software solutions, exploring art
 * **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
 * **Tools:** Git, GitHub, PyCharm, VS Code
 * **Databases:** MySQL, SQLite
-* **Frameworks:** FastAPI (learning).
+* **Frameworks:** FastAPI (learning)..
+* 
 
 ---
 
