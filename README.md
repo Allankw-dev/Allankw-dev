@@ -23,9 +23,6 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:00f7ff,30:5b00ff,60:14001f,100:00f7ff&animation=twinkling" />
-</p>
 
 ## About Me
 
@@ -38,10 +35,6 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 * 💬 Ask me about anything and please follow me guys
 
 ---
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:00f7ff,30:5b00ff,60:14001f,100:00f7ff&animation=twinkling" />
-</p>
 
 ## Skills & Technologies
 
@@ -67,9 +60,6 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:00f7ff,30:5b00ff,60:14001f,100:00f7ff&animation=twinkling" />
-</p>
 
 ## Socials
 
@@ -87,9 +77,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:00f7ff,30:5b00ff,60:14001f,100:00f7ff&animation=twinkling" />
-</p>
+
 
 ## GitHub Progress
 
@@ -128,6 +116,3 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:00f7ff,25:5b00ff,50:14001f,75:5b00ff,100:00f7ff&animation=twinkling" />
-</p>
