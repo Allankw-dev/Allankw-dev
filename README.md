@@ -1,14 +1,14 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0f172a,45:1e3a8a,65:2563eb,85:00f7ff,100:020617&text=ALLAN%20KAMAU&fontSize=72&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=65&descSize=22" />
-</p>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=320&amp;color=0:020617,25:0f172a,45:1e3a8a,65:2563eb,85:00f7ff,100:020617&amp;text=ALLAN%20KAMAU&amp;fontSize=72&amp;fontColor=00F7FF&amp;animation=twinkling&amp;fontAlignY=40&amp;desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descAlignY=65&amp;descSize=22" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Allankw-dev&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Allankw-dev?logo=github&style=for-the-badge&color=00F7FF&labelColor=0d1117" alt="GitHub followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Allankw-dev&amp;label=PROFILE+VIEWS&amp;color=00f7ff&amp;style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Allankw-dev?logo=github&amp;style=for-the-badge&amp;color=00F7FF&amp;labelColor=0d1117" alt="GitHub followers" />
 </p>
 
 ---
@@ -22,7 +22,6 @@ I am a Computer Science student with a strong passion for continuous learning an
 I am also deeply interested in **proper system analysis and design**, ensuring that the solutions I build are practical, scalable, and well-structured. I have hands-on experience developing applications using **Python, HTML, CSS, and Java**, while continuously working to strengthen my technical and problem-solving skills.
 
 ---
-
 
 ## About Me
 
@@ -60,41 +59,38 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 ---
 
-
 ## Socials
 
 <p align="left">
   <a href="https://www.github.com/Allankw-dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&amp;logo=github&amp;logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/allan-wambui" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=black" />
   </a>
   <a href="https://www.facebook.com/Allan.k.w" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-00F7FF?style=for-the-badge&logo=facebook&logoColor=black" />
+    <img src="https://img.shields.io/badge/Facebook-00F7FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=black" />
   </a>
 </p>
 
 ---
 
-
-
 ## GitHub Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allankw-dev&show_icons=true&count_private=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Allankw-dev&amp;show_icons=true&amp;count_private=true&amp;title_color=00F7FF&amp;text_color=ffffff&amp;icon_color=00F7FF&amp;bg_color=0d1117&amp;hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Allankw-dev&amp;stroke=ffffff&amp;background=0d1117&amp;ring=00F7FF&amp;fire=00F7FF&amp;currStreakNum=ffffff&amp;currStreakLabel=00F7FF&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&langs_count=10&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&amp;langs_count=10&amp;title_color=00F7FF&amp;text_color=ffffff&amp;icon_color=00F7FF&amp;bg_color=0d1117&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&bg_color=0d1117&color=00F7FF&line=5b00ff&point=00F7FF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&amp;bg_color=0d1117&amp;color=00F7FF&amp;line=5b00ff&amp;point=00F7FF&amp;area=true&amp;hide_border=true" />
 </p>
 
 ---
@@ -115,4 +111,3 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 </ul>
 
 ---
-
