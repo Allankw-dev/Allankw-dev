@@ -1,7 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,30:14001f,60:5b00ff,100:00f7ff&text=ALLAN%20KAMAU&fontSize=58&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20&amp;%20ML%20Enthusiast&descAlignY=58&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=320&amp;color=0:000000,20:020617,40:1e3a8a,60:2563eb,80:00f7ff,100:000000&amp;text=ALLAN%20KAMAU&amp;fontSize=78&amp;fontColor=00F7FF&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descAlignY=65&amp;descSize=22" />
 </p>
 
+<p align="center">
+  <img width="85%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=60&amp;color=0:00f7ff,50:5b00ff,100:00f7ff&amp;animation=twinkling" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
 </p>
