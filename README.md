@@ -4,15 +4,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1600&auto=format&fit=crop" width="100%" />
-</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Allankw-dev&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Allankw-dev?logo=github&style=for-the-badge&color=00F7FF&labelColor=0d1117)
 
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 # Hi 👋 My name is Allan Kamau
 
 ### Software Engineer | Full Stack Developer | AI & ML Enthusiast
