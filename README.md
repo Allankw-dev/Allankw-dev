@@ -11,7 +11,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
 </p>
 # Hi 👋 My name is Allan Kamau
 
