@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1600&auto=format&fit=crop&sat=-20&brightness=0.8" width="60%" />
+  <img src="https://cdn.pixabay.com/photo/2023/06/10/07/18/ai-8053712_1280.jpg" width="100%" />
+</p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%" />
 </p>
 
