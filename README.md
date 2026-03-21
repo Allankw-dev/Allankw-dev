@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2023/07/05/13/50/ai-8106581_1280.jpg" width="100%" />
-</p>
 ![Profile Views](https://komarev.com/ghpvc/?username=Allankw-dev&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Allankw-dev?logo=github&style=for-the-badge&color=00F7FF&labelColor=0d1117)
 
