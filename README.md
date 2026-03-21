@@ -5,9 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2023/07/05/13/50/artificial-intelligence-8106581_1280.jpg" width="100%" />
-</p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%" />
+  <img src="https://cdn.pixabay.com/photo/2023/07/05/13/50/artificial-intelligence-8106581_1280.jpg" width="65%" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="30%" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Allankw-dev&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge)
