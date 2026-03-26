@@ -70,15 +70,25 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 ## GitHub Progress
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allankw-dev&show_icons=true&count_private=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true)
+## 📊 GitHub Progress
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Allankw-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Allankw-dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&langs_count=10&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Allankw-dev&theme=tokyonight&hide_border=true&border_radius=12"/>
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&bg_color=0d1117&color=00F7FF&line=5b00ff&point=00F7FF&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Allankw-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 ## Support Me
