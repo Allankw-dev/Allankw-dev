@@ -80,7 +80,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&langs_count=10&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&bg_color=0a0f1f&color=60a5fa&line=00f7ff&point=00e5ff&area=true&hide_border=true"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&bg_color=050816&color=00f7ff&line=00f7ff&point=00c3ff&area=true&hide_border=true"/>
 </p>
 
 ---
