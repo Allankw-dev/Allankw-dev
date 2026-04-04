@@ -78,7 +78,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 ![GitHub Streak](https://streak-stats.demolab.com?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&layout=compact&langs_count=10&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
 <p align="center">
