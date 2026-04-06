@@ -32,7 +32,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 * 🚀 I'm currently working on [Various real world applications](https://github.com/Allankw-dev)
 * 🧠 I'm currently learning AI and ML
 * 👥 I'm looking to collaborate on interesting and real world projects
-* 💬 Ask me about anything and please follow me guys
+* 💬 Ask me about anything and please follow me guys.
 
 ---
 
