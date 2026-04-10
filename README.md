@@ -86,7 +86,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 ---
 
-## Support Me
+## Support Me.
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/Allan.k.w">
