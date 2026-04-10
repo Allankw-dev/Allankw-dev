@@ -16,7 +16,7 @@
 
 # Hi 👋 My name is Allan Kamau
 
-### Software Engineer | Full Stack Developer | AI & ML Enthusiast
+### Software Engineer | Full Stack Developer | AI & ML Enthusiast.
 
 I am a Computer Science student with a strong passion for continuous learning and professional development across multiple areas of technology. My interests span **web development**, **application development**, and especially **Artificial Intelligence and Machine Learning integration into real-world systems**.
 
