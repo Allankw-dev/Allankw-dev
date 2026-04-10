@@ -68,7 +68,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 ---
 
-## GitHub Progress
+## GitHub Progress.
 
 
 <p align="center">
