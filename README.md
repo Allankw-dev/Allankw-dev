@@ -24,7 +24,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 ---
 
-## About Me
+## About Me.
 
 * 🌍 I'm based in Kenya
 * 🖥️ See my portfolio at(https://github.com/Allankw-dev)
