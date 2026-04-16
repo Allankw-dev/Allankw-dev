@@ -27,7 +27,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 ## About Me
 
 * 🌍 I'm based in Kenya
-* 🖥️ See my portfolio at [My Portfolio](https://github.com/Allankw-dev)
+* 🖥️ See my portfolio at(https://github.com/Allankw-dev)
 * ✉️ You can contact me at [allankamau517@gmail.com](mailto:allankamau517@gmail.com)
 * 🚀 I'm currently working on [Various real world applications](https://github.com/Allankw-dev)
 * 🧠 I'm currently learning AI and ML
