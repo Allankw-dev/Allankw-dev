@@ -22,7 +22,7 @@ I am a Computer Science student with a strong passion for continuous learning an
 
 I am also deeply interested in **proper system analysis and design**, ensuring that the solutions I build are practical, scalable, and well-structured. I have hands-on experience developing applications using **Python, HTML, CSS, and Java**, while continuously working to strengthen my technical and problem-solving skills.
 
----
+--
 
 ## About Me.
 
