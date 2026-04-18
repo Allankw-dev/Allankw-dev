@@ -35,7 +35,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 * 💬 Ask me about anything and please follow me guys..
 
 ---
-## 🚀 Skills & Technologies
+## 🚀 Skills & Technologies.
 
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40"/></a>
