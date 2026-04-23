@@ -59,7 +59,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 
 
 
----
+--
 
 ## Socials.
 
