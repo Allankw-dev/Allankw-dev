@@ -14,7 +14,7 @@
 
 ---
 
-# Hi 👋 My name is Allan Kamau.
+# Hi 👋 My name is Allan Kamau..
 
 ### Software Engineer | Full Stack Developer | AI & ML Enthusiast.
 
