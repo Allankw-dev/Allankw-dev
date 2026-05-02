@@ -20,7 +20,7 @@
 
 I am a Computer Science student with a strong passion for continuous learning and professional development across multiple areas of technology. My interests span **web development**, **application development**, and especially **Artificial Intelligence and Machine Learning integration into real-world systems**.
 
-I am also deeply interested in **proper system analysis and design**, ensuring that the solutions I build are practical, scalable, and well-structured. I have hands-on experience developing applications using **Python, HTML, CSS, and Java**, while continuously working to strengthen my technical and problem-solving skills..
+I am also deeply interested in **proper system analysis and design**, ensuring that the solutions I build are practical, scalable, and well-structured. I have hands-on experience developing applications using **Python, HTML, CSS, and Java**, while continuously working to strengthen my technical and problem-solving skills.
 
 --
 
