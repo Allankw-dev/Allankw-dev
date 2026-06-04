@@ -80,7 +80,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 ![GitHub Streak](https://streak-stats.demolab.com?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allankw-dev&show_icons=true&count_private=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&bg_color=050816&color=7df9ff&line=00f7ff&point=38bdf8&area=true&hide_border=true" />
