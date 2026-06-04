@@ -76,7 +76,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Allankw-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Allankw-dev &stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&layout=compact&theme=tokyonight&hide_border=true)
 
