@@ -29,8 +29,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 * 🌍 I'm based in Kenya
 * 🖥️ See my portfolio at(https://github.com/Allankw-dev)
 * ✉️ You can contact me at [allankamau517@gmail.com](mailto:allankamau517@gmail.com)
-* 🚀 I'm currently working on [various real world applications](https:/ /ci9bqgsntavkvazpyt7ml8
-.streamlit.app)
+* 🚀* 🌱 I'm currently working on [Various real world applications](https://ai-powered-hiring-system.streamlit.app)
 * 🧠 I'm currently learning AI and ML
 * 👥 I'm looking to collaborate on interesting and real world projects
 * 💬 Ask me about anything and please follow me guys.
