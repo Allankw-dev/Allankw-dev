@@ -27,7 +27,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 ## About Me.
 
 * 🌍 I'm based in Kenya
-* 📱 Contact me on WhatsApp: [Let's chat](https://wa.me/25742996794)
+* 📱 Contact me on WhatsApp: [Let's chat](https://wa.me/254742996794)
 * 🖥️ See my portfolio at(https://github.com/Allankw-dev)
 * ✉️ You can contact me at [allankamau517@gmail.com](mailto:allankamau517@gmail.com)
 * 🚀* 🌱 I'm currently working on [Various real world applications](https://ai-powered-hiring-system.streamlit.app)
