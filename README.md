@@ -30,6 +30,7 @@ I am also deeply interested in **proper system analysis and design**, ensuring t
 * 🖥️ See my portfolio at(https://github.com/Allankw-dev)
 * ✉️ You can contact me at [allankamau517@gmail.com](mailto:allankamau517@gmail.com)
 * 🚀* 🌱 I'm currently working on [Various real world applications](https://ai-powered-hiring-system.streamlit.app)
+* 📱 Contact me on WhatsApp: [Let's chat](https://wa.me/25742996794)
 * 🧠 I'm currently learning AI and ML
 * 👥 I'm looking to collaborate on interesting and real world projects
 * 💬 Ask me about anything and please follow me guys.
