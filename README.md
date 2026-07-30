@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1e3a8a,30:14001f,60:5b00ff,100:00f7ff&text=ALLAN%20KAMAU&fontSize=58&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1e3a8a,30:14001f,60:5b00ff,100:00f7ff&text=ALLAN%20KAMAU&fontSize=58&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20&amp;%20ML%20Enthusiast&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
@@ -27,20 +27,23 @@ I care about the full lifecycle of a system — clean schema design, solid API s
 
 I'm comfortable moving across the stack — from relational schema design to REST APIs to deployment — and I've put that into practice building and shipping projects like my **AI Hiring Platform**, hardened with rate limiting, input sanitization, and secure authentication. What I'm really after is understanding how systems fit together and hold up under real constraints, not just getting something to run once.
 
-<p align="center">
-  <img src="https://readme-quotes.vercel.app/api?type=random&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p>
 ---
 
 ## 🧭 About Me
 
 - 🌍 Based in Kenya, open to remote and on-site opportunities
+  
 - 🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
+  
 - 🚀 One example of that in practice: my <a href="https://ai-powered-hiring-system.streamlit.app"><b>AI Hiring Platform</b></a>, a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
+  
 - ☁️ Hands-on with cloud infrastructure — provisioned a full Oracle Cloud environment (VCN, managed PostgreSQL, compute instance) end to end for a database systems project
+  
 - 🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
+- 
 - 🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
+- 
 - 💬 Happy to talk through anything from database design to deployment troubleshooting
 
 ---
