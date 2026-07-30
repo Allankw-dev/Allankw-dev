@@ -34,15 +34,15 @@ I'm comfortable moving across the stack — from relational schema design to RES
 ## 🧭 About Me
 .🌍 Based in Kenya, open to remote and on-site opportunities
 
-🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
+.🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
+
+.🚀 One example of that in practice: my [AI Hiring Platform](https://ai-powered-hiring-system.streamlit.app), a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
 
 ☁️ Hands-on with cloud infrastructure — provisioned a full Oracle Cloud environment (VCN, managed PostgreSQL, compute instance) end to end for a database systems project
 
-🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
+.🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
 
-🚀 One example of that in practice: my [AI Hiring Platform](https://ai-powered-hiring-system.streamlit.app), a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
-
-🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
+.🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
 
 💬 Happy to talk through anything from database design to deployment troubleshooting
 ---
