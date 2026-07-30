@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1e3a8a,30:14001f,60:5b00ff,100:00f7ff&text=ALLAN%20KAMAU&fontSize=58&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=20" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
@@ -34,15 +36,10 @@ I'm comfortable moving across the stack — from relational schema design to RES
 ## 🧭 About Me
 
 - 🌍 Based in Kenya, open to remote and on-site opportunities
-- 
 - 🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
-- 
--  🚀 One example of that in practice: my <a href="https://ai-powered-hiring-system.streamlit.app"><b>AI Hiring Platform</b></a>, a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
--  
+- 🚀 One example of that in practice: my <a href="https://ai-powered-hiring-system.streamlit.app"><b>AI Hiring Platform</b></a>, a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
 - ☁️ Hands-on with cloud infrastructure — provisioned a full Oracle Cloud environment (VCN, managed PostgreSQL, compute instance) end to end for a database systems project
-- 
 - 🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
-- 
 - 🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
 - 💬 Happy to talk through anything from database design to deployment troubleshooting
 
