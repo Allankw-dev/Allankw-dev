@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1600&auto=format&fit=crop&sat=-20&brightness=0.8" width="60%" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%" />
+  <img src="https://images.unsplash.com/photo-1756908992154-c8a89f5e517f?q=80&w=1200&auto=format&fit=crop" width="60%" alt="AI glowing circuits" />
+  <img src="https://images.unsplash.com/photo-1717501218198-816a64915f81?q=80&w=800&auto=format&fit=crop" width="35%" alt="AI visualization by Google DeepMind" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ I care deeply about proper **system analysis and design**, making sure the solut
 ## 🤖 AI & Machine Learning
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1678491449021-762a7b999862?fm=jpg&q=80&w=1600&auto=format&fit=crop" width="80%" alt="AI & Machine Learning" />
+  <img src="https://images.unsplash.com/photo-1678491449021-762a7b999862?fm=jpg&q=80&w=1400&auto=format&fit=crop" width="80%" alt="AI & Machine Learning" />
 </p>
 
 <p align="center"><i>Exploring how machine intelligence is reshaping the way we build software — from data pipelines to intelligent decision-making systems.</i></p>
@@ -144,7 +144,7 @@ I care deeply about proper **system analysis and design**, making sure the solut
 <p align="center">
   <a href="https://www.github.com/Allankw-dev"><img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/allan-kamau2"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="https://www.instagram.com/Allan.k.w"><img src="https://img.shields.io/badge/Facebook-00F7FF?style=for-the-badge&logo=facebook&logoColor=black" /></a>
+  <a href="https://www.facebook.com/Allan.k.w"><img src="https://img.shields.io/badge/Facebook-00F7FF?style=for-the-badge&logo=facebook&logoColor=black" /></a>
   <a href="mailto:allankamau517@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://wa.me/254742996794"><img src="https://img.shields.io/badge/WhatsApp-00F7FF?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
 </p>
