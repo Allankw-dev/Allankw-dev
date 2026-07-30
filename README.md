@@ -23,9 +23,9 @@
 
 **Software Engineer · Full Stack Developer · AI & ML Enthusiast**
 
-I'm a Computer Science student with a strong passion for continuous learning and professional development across multiple areas of technology. My interests span **web development**, **application development**, and especially **integrating AI/ML into real-world systems**.
+I care about the full lifecycle of a system — clean schema design, solid API structure, sensible architecture decisions, and code that's still understandable six months later. That's shaped by coursework in database systems and object-oriented analysis and design, and by hands-on work provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances) rather than just following tutorials.
 
-I care deeply about proper **system analysis and design**, making sure the solutions I build are practical, scalable, and well-structured — not just working code, but code that makes sense. I have hands-on experience building with **Python, HTML, CSS, and Java**, and I'm constantly working to sharpen both my technical and problem-solving skills.
+I'm comfortable moving across the stack — from relational schema design to REST APIs to deployment — and I've put that into practice building and shipping projects like my AI Hiring Platform, hardened with rate limiting, input sanitization, and secure authentication. What I'm really after is understanding how systems fit together and hold up under real constraints, not just getting something to run once.
 
 <p align="center">
   <img src="https://readme-quotes.vercel.app/api?type=random&theme=tokyonight" alt="Random Dev Quote" />
@@ -35,14 +35,13 @@ I care deeply about proper **system analysis and design**, making sure the solut
 
 ## 🧭 About Me
 
-- 🌍 Based in Kenya
-- 🎓 Currently studying Advanced Database Systems & Object Oriented System Analysis and Design
-- 🌱 Currently building an **AI Hiring Platform** — a full-stack app with a FastAPI backend, Streamlit frontend, and PostgreSQL (Supabase) database
-- 🧠 Currently learning: deeper AI/ML integration and cloud infrastructure (OCI, Azure)
-- 👥 Looking to collaborate on interesting, real-world projects
-- 💬 Ask me about anything — happy to chat about full-stack dev, databases, or AI
-
----
+🌍 Based in Kenya, open to remote and on-site opportunities
+🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
+☁️ Hands-on with cloud infrastructure — provisioned a full Oracle Cloud environment (VCN, managed PostgreSQL, compute instance) end to end for a database systems project
+🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
+🚀 One example of that in practice: my AI Hiring Platform, a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
+🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
+💬 Happy to talk through anything from database design to deployment troubleshooting
 
 ## 🤖 AI & Machine Learning
 
