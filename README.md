@@ -30,6 +30,8 @@ I'm comfortable moving across the stack — from relational schema design to RES
 <p align="center">
   <img src="https://readme-quotes.vercel.app/api?type=random&theme=tokyonight" alt="Random Dev Quote" />
 </p>
+
+## 🧭 About Me
 .🌍 Based in Kenya, open to remote and on-site opportunities
 
 🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
@@ -44,8 +46,6 @@ I'm comfortable moving across the stack — from relational schema design to RES
 
 💬 Happy to talk through anything from database design to deployment troubleshooting
 ---
-
-## 🧭 About Me
 
 
 ## 🤖 AI & Machine Learning
