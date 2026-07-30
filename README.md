@@ -46,9 +46,7 @@ I care deeply about proper **system analysis and design**, making sure the solut
 
 ## 🤖 AI & Machine Learning
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1744640326166-433469d102f2?q=80&w=1400&auto=format&fit=crop" width="80%" alt="Glowing AI chip on a circuit board" />
-</p>
+<p align="center"> <img src="https://images.unsplash.com/photo-1573511860302-28c524319d2a?q=80&w=1400&auto=format&fit=crop" width="80%" alt="Neon 3D render of a head and brain" /> </p> <p align="center"><i>Exploring how machine intelligence is reshaping the way we build software — from data pipelines to intelligent decision-making systems.</i></p>
 
 <p align="center"><i>Exploring how machine intelligence is reshaping the way we build software — from data pipelines to intelligent decision-making systems.</i></p>
 
