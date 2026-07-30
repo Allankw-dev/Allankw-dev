@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?q=80&w=1200&auto=format&fit=crop" width="60%" alt="3D render of AI and GPU processors" />
+  <img src="https://raw.githubusercontent.com/Allankw-dev/Allankw-dev/main/coding-hologram.svg" width="60%" alt="Coding in a holographic UI layout" />
   <img src="https://images.unsplash.com/photo-1617791160536-598cf32026fb?q=80&w=800&auto=format&fit=crop" width="35%" alt="Iridescent AI brain 3D render" />
 </p>
 
