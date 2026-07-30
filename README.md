@@ -40,7 +40,7 @@ I'm comfortable moving across the stack — from relational schema design to RES
 
 🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
 
-🚀 One example of that in practice: my AI Hiring Platform, a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
+🚀 One example of that in practice: my [AI Hiring Platform](https://ai-powered-hiring-system.streamlit.app), a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
 
 🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
 
