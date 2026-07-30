@@ -1,6 +1,9 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1e3a8a,30:14001f,60:5b00ff,100:00f7ff&text=ALLAN%20KAMAU&fontSize=58&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20&amp;%20ML%20Enthusiast&descAlignY=58&descSize=20" />
 </p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1e3a8a,30:14001f,60:5b00ff,100:00f7ff&text=ALLAN%20KAMAU&fontSize=58&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=20" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
@@ -125,10 +128,10 @@ I care deeply about proper **system analysis and design**, making sure the solut
   <img src="https://github-profile-trophy.vercel.app/?username=Allankw-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
-### 🧊 Isometric Contribution Calendar
+### 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Allankw-dev/Allankw-dev/main/metrics.isocalendar.svg" alt="isometric contribution calendar" />
+  <img src="https://raw.githubusercontent.com/Allankw-dev/Allankw-dev/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" />
 </p>
 
 ### 🗺️ Visitor Count
@@ -152,15 +155,15 @@ I care deeply about proper **system analysis and design**, making sure the solut
 ---
 
 <details>
-<summary><b>⚙️ How to enable the isometric metrics calendar (one-time setup)</b></summary>
+<summary><b>⚙️ How to enable the 3D contribution calendar (one-time setup)</b></summary>
 <br>
 
-This feature runs automatically once a day via GitHub Actions — you don't touch it again after setup.
+This feature runs automatically once a day via GitHub Actions — you don't touch it again after setup. It uses the default GitHub token, so no separate access token or repo secret is needed.
 
-1. In your **`Allankw-dev/Allankw-dev`** profile repo, create the folder `.github/workflows/`.
-2. Add the file `metrics.yml` (provided alongside this README — just drop it in as-is).
+1. In your **`Allankw-dev/Allankw-dev`** profile repo, create the folder `.github/workflows/` if it doesn't already exist.
+2. Add the file `metrics.yml` (provided alongside this README — just drop it in as-is, replacing the old one if present).
 3. Commit and push. Go to the **Actions** tab of your repo and manually run the workflow once (▶️ "Run workflow") so the first SVG gets generated — after that, it runs on its own schedule.
-4. That's it — the isometric calendar image URL in this README will start rendering automatically.
+4. That's it — the 3D contribution calendar image URL in this README will start rendering automatically.
 
 </details>
 
