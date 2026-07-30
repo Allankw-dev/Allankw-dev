@@ -1,21 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1e3a8a,30:14001f,60:5b00ff,100:00f7ff&text=ALLAN%20KAMAU&fontSize=58&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=20" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://images.pexels.com/photos/8728167/pexels-photo-8728167.jpeg?auto=compress&cs=tinysrgb&w=1200" width="60%" alt="Person interacting with a holographic interface" />
-  <img src="https://images.unsplash.com/photo-1617791160536-598cf32026fb?q=80&w=800&auto=format&fit=crop" width="35%" alt="Iridescent AI brain 3D render" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Allankw-dev&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Allankw-dev?logo=github&style=for-the-badge&color=00F7FF&labelColor=0d1117" />
-  <a href="https://wa.me/254742996794"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1e3a8a,30:14001f,60:5b00ff,100:00f7ff&text=ALLAN%20KAMAU&fontSize=58&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=20" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" /> </p> <p align="center"> <img src="https://images.pexels.com/photos/8728167/pexels-photo-8728167.jpeg?auto=compress&cs=tinysrgb&w=1200" width="60%" alt="Person interacting with a holographic interface" /> <img src="https://images.unsplash.com/photo-1617791160536-598cf32026fb?q=80&w=800&auto=format&fit=crop" width="35%" alt="Iridescent AI brain 3D render" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Allankw-dev&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/Allankw-dev?logo=github&style=for-the-badge&color=00F7FF&labelColor=0d1117" /> <a href="https://wa.me/254742996794"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> </p>
 
 ---
 
