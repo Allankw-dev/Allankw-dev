@@ -27,9 +27,7 @@ I care about the full lifecycle of a system — clean schema design, solid API s
 
 I'm comfortable moving across the stack — from relational schema design to REST APIs to deployment — and I've put that into practice building and shipping projects like my AI Hiring Platform, hardened with rate limiting, input sanitization, and secure authentication. What I'm really after is understanding how systems fit together and hold up under real constraints, not just getting something to run once.
 
-<p align="center">
-  <img src="https://readme-quotes.vercel.app/api?type=random&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+<p align="center"> <img src="https://readme-quotes.vercel.app/api?type=random&theme=tokyonight" alt="Random Dev Quote" /> </p>
 
 ## 🧭 About Me
 .🌍 Based in Kenya, open to remote and on-site opportunities
