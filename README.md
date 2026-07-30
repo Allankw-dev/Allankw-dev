@@ -131,10 +131,10 @@ I care deeply about proper **system analysis and design**, making sure the solut
   <img src="https://raw.githubusercontent.com/Allankw-dev/Allankw-dev/main/metrics.isocalendar.svg" alt="isometric contribution calendar" />
 </p>
 
-### 🗺️ Visitor Map
+### 🗺️ Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Allankw-dev/count.svg" alt="visitor map" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Allankw-dev.Allankw-dev" alt="visitor count" />
 </p>
 
 ---
