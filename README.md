@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1e3a8a,30:14001f,60:5b00ff,100:00f7ff&text=ALLAN%20KAMAU&fontSize=58&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20&amp;%20ML%20Enthusiast&descAlignY=58&descSize=20" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+applications;Full+Stack+Development;AI+%26+ML+Integration;System+Analysis+and+Design;Always+learning+and+improving" alt="Typing SVG" />
@@ -21,34 +19,45 @@
 
 ## 👋 Hi, I'm Allan Kamau
 
-**Software Engineer · Full Stack Developer · AI & ML Enthusiast**
+**Software Engineer · Full-Stack Developer · AI/ML Builder**
 
-I care about the full lifecycle of a system — clean schema design, solid API structure, sensible architecture decisions, and code that's still understandable six months later. That's shaped by coursework in database systems and object-oriented analysis and design, and by hands-on work provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances) rather than just following tutorials.
+I care about the full lifecycle of a system — clean schema design, solid API structure, sensible architecture decisions, and code that's still understandable six months later. That's shaped by coursework in **database systems** and **object-oriented analysis and design**, and by hands-on work provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances) rather than just following tutorials.
 
-I'm comfortable moving across the stack — from relational schema design to REST APIs to deployment — and I've put that into practice building and shipping projects like my AI Hiring Platform, hardened with rate limiting, input sanitization, and secure authentication. What I'm really after is understanding how systems fit together and hold up under real constraints, not just getting something to run once.
+I'm comfortable moving across the stack — from relational schema design to REST APIs to deployment — and I've put that into practice building and shipping projects like my **AI Hiring Platform**, hardened with rate limiting, input sanitization, and secure authentication. What I'm really after is understanding how systems fit together and hold up under real constraints, not just getting something to run once.
 
-<p align="center"> <img src="https://readme-quotes.vercel.app/api?type=random&theme=tokyonight" alt="Random Dev Quote" /> </p>
+<p align="center">
+  <img src="https://readme-quotes.vercel.app/api?type=random&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
-## 🧭 About Me
--🌍 Based in Kenya, open to remote and on-site opportunities
-
--🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
-
--🚀 One example of that in practice: my [AI Hiring Platform](https://ai-powered-hiring-system.streamlit.app), a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
-
--☁️ Hands-on with cloud infrastructure — provisioned a full Oracle Cloud environment (VCN, managed PostgreSQL, compute instance) end to end for a database systems project
-
--🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
-
--🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
-
--💬 Happy to talk through anything from database design to deployment troubleshooting
 ---
 
+## 🧭 About Me
+
+- 🌍 Based in Kenya, open to remote and on-site opportunities
+- 
+- 🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
+- 
+-  🚀 One example of that in practice: my <a href="https://ai-powered-hiring-system.streamlit.app"><b>AI Hiring Platform</b></a>, a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
+-  
+- ☁️ Hands-on with cloud infrastructure — provisioned a full Oracle Cloud environment (VCN, managed PostgreSQL, compute instance) end to end for a database systems project
+- 
+- 🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
+- 
+- 🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
+- 💬 Happy to talk through anything from database design to deployment troubleshooting
+
+---
 
 ## 🤖 AI & Machine Learning
 
-<p align="center"> <img src="https://images.unsplash.com/photo-1674027444485-cec3da58eef4?q=80&w=1400&auto=format&fit=crop" width="80%" alt="Abstract neural network sphere" /> </p> <p align="center"><i>Exploring how machine intelligence is reshaping the way we build software — from data pipelines to intelligent decision-making systems.</i></p>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1674027444485-cec3da58eef4?q=80&w=1400&auto=format&fit=crop" width="80%" alt="Abstract neural network sphere" />
+</p>
+
+<p align="center"><i>Exploring how machine intelligence is reshaping the way we build software — from data pipelines to intelligent decision-making systems.</i></p>
+
+---
+
 ## 🛠️ Featured Project
 
 <p align="center">
