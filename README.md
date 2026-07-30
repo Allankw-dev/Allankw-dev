@@ -27,7 +27,7 @@ I care about the full lifecycle of a system — clean schema design, solid API s
 
 I'm comfortable moving across the stack — from relational schema design to REST APIs to deployment — and I've put that into practice building and shipping projects like my **AI Hiring Platform**, hardened with rate limiting, input sanitization, and secure authentication. What I'm really after is understanding how systems fit together and hold up under real constraints, not just getting something to run once.
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p>
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:5b00ff,100:00f7ff&section=header" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00f7ff,100:5b00ff&section=footer" /> </p>
 
 
 ## 🧭 About Me
