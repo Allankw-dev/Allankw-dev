@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Allankw-dev/Allankw-dev/main/ai-header-left-live.svg" width="60%" alt="AI glowing circuits (animated)" />
-  <img src="https://raw.githubusercontent.com/Allankw-dev/Allankw-dev/main/ai-header-right-live.svg" width="35%" alt="Iridescent AI brain render (animated)" />
+  <img src="https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?q=80&w=1200&auto=format&fit=crop" width="60%" alt="3D render of AI and GPU processors" />
+  <img src="https://images.unsplash.com/photo-1617791160536-598cf32026fb?q=80&w=800&auto=format&fit=crop" width="35%" alt="Iridescent AI brain 3D render" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ I care deeply about proper **system analysis and design**, making sure the solut
 ## 🤖 AI & Machine Learning
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Allankw-dev/Allankw-dev/main/ai-chip-live.svg" width="80%" alt="Glowing AI chip on a circuit board (animated)" />
+  <img src="https://images.unsplash.com/photo-1744640326166-433469d102f2?q=80&w=1400&auto=format&fit=crop" width="80%" alt="Glowing AI chip on a circuit board" />
 </p>
 
 <p align="center"><i>Exploring how machine intelligence is reshaping the way we build software — from data pipelines to intelligent decision-making systems.</i></p>
