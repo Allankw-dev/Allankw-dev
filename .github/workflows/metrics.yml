@@ -1,10 +1,10 @@
 name: Generate Metrics
-
+ 
 on:
   schedule:
     - cron: "0 0 * * *"   # runs once a day at midnight UTC
   workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
-
+ 
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -16,6 +16,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Allankw-dev
           filename: metrics.isocalendar.svg
-          template: isocalendar
-          isocalendar: yes
-          isocalendar_duration: full-year
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+ 
