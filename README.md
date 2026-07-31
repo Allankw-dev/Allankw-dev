@@ -23,9 +23,11 @@
 
 **Software Engineer · Full-Stack Developer · AI/ML Builder**
 
-I care about the full lifecycle of a system — clean schema design, solid API structure, sensible architecture decisions, and code that's still understandable six months later. That's shaped by coursework in **database systems** and **object-oriented analysis and design**, and by hands-on work provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances) rather than just following tutorials.
+I am a Computer Science student with a strong passion for continuous learning and professional development across multiple areas of technology. My interests span *web development, **application development, and especially **Artificial Intelligence and Machine Learning integration into real-world systems*.
 
-I'm comfortable moving across the stack — from relational schema design to REST APIs to deployment — and I've put that into practice building and shipping projects like my **AI Hiring Platform**, hardened with rate limiting, input sanitization, and secure authentication. What I'm really after is understanding how systems fit together and hold up under real constraints, not just getting something to run once.
+I am also deeply interested in *proper system analysis and design, ensuring that the solutions I build are practical, scalable, and well-structured. I have hands-on experience developing applications using **Python, HTML, CSS, and Java*, while continuously working to strengthen my technical and problem-solving skills..
+
+I care about the full lifecycle of a system — clean schema design, solid API structure, sensible architecture decisions, and code that's still understandable six months later. That's shaped by coursework in **database systems** and **object-oriented analysis and design**, and by hands-on work provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances) rather than just following tutorials.
 
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:5b00ff,100:00f7ff&section=header" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00f7ff,100:5b00ff&section=footer" /> </p>
 
