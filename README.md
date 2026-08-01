@@ -43,9 +43,9 @@ I care about the full lifecycle of a system — clean schema design, solid API s
 - ☁️ Hands-on with cloud infrastructure — provisioned a full Oracle Cloud environment (VCN, managed PostgreSQL, compute instance) end to end for a database systems project
   
 - 🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
-- 
+  
 - 🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
-- 
+  
 - 💬 Happy to talk through anything from database design to deployment troubleshooting
 
 ---
