@@ -106,7 +106,7 @@ I care about the full lifecycle of a system — clean schema design, solid API s
 <summary><b>☁️ Tools & Platforms</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcp,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,git,github,vscode,linux,gcp,wordpress&theme=dark" />
 </p>
 </details>
 
