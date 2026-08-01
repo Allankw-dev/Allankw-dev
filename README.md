@@ -23,11 +23,9 @@
 
 **Software Engineer · Full-Stack Developer · AI/ML Builder**
 
-I am a Computer Science student with a strong passion for continuous learning and professional development across multiple areas of technology. My interests span *web development, **application development, and especially **Artificial Intelligence and Machine Learning integration into real-world systems*.
+Computer Science student focused on web and application development, with a particular interest in integrating AI/ML into real-world systems. I build with Python, HTML, CSS, and Java, grounded in solid database design and object-oriented system analysis — aiming for solutions that are practical, scalable, and hold up beyond the first demo.
 
-I am also deeply interested in *proper system analysis and design, ensuring that the solutions I build are practical, scalable, and well-structured. I have hands-on experience developing applications using **Python, HTML, CSS, and Java*, while continuously working to strengthen my technical and problem-solving skills..
-
-I care about the full lifecycle of a system — clean schema design, solid API structure, sensible architecture decisions, and code that's still understandable six months later. That's shaped by coursework in **database systems** and **object-oriented analysis and design**, and by hands-on work provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances) rather than just following tutorials.
+I'm comfortable moving across the stack — from schema design to REST APIs to deployment, and provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances). I've put that into practice building and shipping my AI Hiring Platform (FastAPI + Streamlit + PostgreSQL), hardened with rate limiting, input sanitization, and secure authentication.
 
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:5b00ff,100:00f7ff&section=header" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00f7ff,100:5b00ff&section=footer" /> </p>
 
