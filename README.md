@@ -82,7 +82,7 @@ I care about the full lifecycle of a system — clean schema design, solid API s
 <summary><b>🧠 Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,php,bash&theme=dark" />
 </p>
 </details>
 
