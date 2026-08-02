@@ -165,13 +165,4 @@ This feature runs automatically once a day via GitHub Actions — you don't touc
 ---
 
 ## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Allan.k.w">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00f7ff,100:1e3a8a&section=footer" />
-</p>
+<p align="center"> <a href="https://ko-fi.com/allankamau"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /> </a> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00f7ff,100:1e3a8a&section=footer" /> </p>
