@@ -33,6 +33,8 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 ## 🧭 About Me.
 
 - 🌍 Based in Kenya, open to remote and on-site opportunities
+- 
+- 📂 You can view my portfolio at [allankw-dev.github.io](https://allankw-dev.github.io)
   
 - 🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
   
