@@ -28,6 +28,8 @@
 
 Computer Science student focused on web and application development, with a particular interest in integrating AI/ML into real-world systems. I build with Python, HTML, CSS, and Java, grounded in solid database design and object-oriented system analysis — aiming for solutions that are practical, scalable, and hold up beyond the first demo.
 
+✉️ You can contact me at [allankamau517@gmail.com](mailto:allankamau517@gmail.com)
+
 I'm comfortable moving across the stack — from schema design to REST APIs to deployment, and provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances). I've put that into practice building and shipping my AI Hiring Platform (FastAPI + Streamlit + PostgreSQL), hardened with rate limiting, input sanitization, and secure authentication.
 
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:5b00ff,100:00f7ff&section=header" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00f7ff,100:5b00ff&section=footer" /> </p>
