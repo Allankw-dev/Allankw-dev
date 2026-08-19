@@ -17,6 +17,14 @@
   <a href="https://wa.me/254742996794"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.github.com/Allankw-dev"><img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/allan-kamau2"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://www.instagram.com/Allan.k.w"><img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black" /></a>
+  <a href="mailto:allankamau517@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://wa.me/254742996794"><img src="https://img.shields.io/badge/WhatsApp-00F7FF?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+</p>
+
 ---
 
 ## 👋 Hi, I'm Allan Kamau..
