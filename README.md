@@ -121,6 +121,8 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Allankw-dev&langs_count=10&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages)
 
+ <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Allankw-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" /> </p>
+
 ### 🗺️ Visitor Count
 
 <p align="center">
