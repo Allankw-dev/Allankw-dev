@@ -119,28 +119,7 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 
 ## 📊 GitHub Progress
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Allankw-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Allankw-dev&langs_count=10&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&bg_color=050816&color=7df9ff&line=00f7ff&point=38bdf8&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Allankw-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
-### 🧊 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Allankw-dev/Allankw-dev/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" />
-</p>
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Allankw-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allankw-dev&langs_count=10&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&bg_color=050816&color=7df9ff&line=00f7ff&point=38bdf8&area=true&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Allankw-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" /> </p>
 
 ### 🗺️ Visitor Count
 
