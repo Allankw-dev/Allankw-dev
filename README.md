@@ -118,10 +118,14 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 ---
 
 ## 📊 GitHub Progress
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Allankw-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
+</p>
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Allankw-dev&langs_count=10&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages)
 
- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Allankw-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" /> </p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 ### 🗺️ Visitor Count
 
