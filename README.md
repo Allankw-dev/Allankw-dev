@@ -123,8 +123,6 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-
-
 ### 🗺️ Visitor Count
 
 <p align="center">
