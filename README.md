@@ -29,6 +29,8 @@
 Computer Science student focused on web and application development, with a particular interest in integrating AI/ML into real-world systems. I build with Python, HTML, CSS, and Java, grounded in solid database design and object-oriented system analysis — aiming for solutions that are practical, scalable, and hold up beyond the first demo.
 
 ✉️ You can contact me at [allankamau517@gmail.com](mailto:allankamau517@gmail.com)
+### 💼 Hire Me
+[![Freelancer](https://img.shields.io/badge/Freelancer.com-Hire_Me-00F7FF?style=for-the-badge&logo=freelancer&logoColor=0d1117)](https://www.freelancer.com/get/allank234?f=give)
 
 I'm comfortable moving across the stack — from schema design to REST APIs to deployment, and provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances). I've put that into practice building and shipping my AI Hiring Platform (FastAPI + Streamlit + PostgreSQL), hardened with rate limiting, input sanitization, and secure authentication.
 
