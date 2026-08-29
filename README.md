@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 Hi, I'm Allan Kamau...
+## 👋 Hi, I'm Allan Kamau.
 
 **Software Engineer · Full-Stack Developer · AI/ML Builder**
 
