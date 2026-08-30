@@ -97,7 +97,7 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 <summary><b>🎨 Frontend & Frameworks</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,django,pytorch,node.js,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,django,pytorch,react,fastapi,supabase,vite,streamlit,tailwind&theme=dark" />
 </p>
 </details>
 
