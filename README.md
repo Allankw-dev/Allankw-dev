@@ -105,7 +105,7 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 <summary><b>🗄️ Databases</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" />
 </p>
 </details>
 
