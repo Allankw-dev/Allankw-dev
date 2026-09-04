@@ -126,11 +126,7 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Allankw-dev&stroke=ffffff&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Allankw-dev&theme=react-dark&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allankw-dev&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 
