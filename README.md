@@ -26,11 +26,14 @@
 
 **Software Engineer · Full-Stack Developer · AI/ML Builder**
 
-Computer Science student focused on web and application development, with a particular interest in integrating AI/ML into real-world systems. I build with Python, HTML, CSS, and Java, grounded in solid database design and object-oriented system analysis — aiming for solutions that are practical, scalable, and hold up beyond the first demo.
+I build practical software that turns ideas into real, working products. As a Computer Science student and Software Engineer, I focus on web, application, and backend development, with a growing focus on integrating AI/ML into real-world systems.
 
-✉️ You can contact me at [allankamau517@gmail.com](mailto:allankamau517@gmail.com)
+I work with Python, Java, HTML, CSS, REST APIs, PostgreSQL, Docker, and cloud infrastructure, including Oracle Cloud (OCI). I’m comfortable across the stack—from database design and backend development to deployment.
 
-I'm comfortable moving across the stack — from schema design to REST APIs to deployment, and provisioning real cloud infrastructure (OCI: VCN, managed PostgreSQL, compute instances). I've put that into practice building and shipping my AI Hiring Platform (FastAPI + Streamlit + PostgreSQL), hardened with rate limiting, input sanitization, and secure authentication.
+I’ve put these skills into practice through projects such as my AI Hiring Platform, built with FastAPI, Streamlit, and PostgreSQL, with secure authentication, input validation, and rate limiting.
+
+✉️ [allankamau517@gmail.com](mailto:allankamau517@gmail.com)
+
 
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:5b00ff,100:00f7ff&section=header" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00f7ff,100:5b00ff&section=footer" /> </p>
 
