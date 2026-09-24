@@ -145,9 +145,7 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 
 ---
 
-<details>
-<summary><b>⚙️ How to enable the 3D contribution calendar (one-time setup)</b></summary>
-<br>
+
 
 This feature runs automatically once a day via GitHub Actions — you don't touch it again after setup. It uses the default GitHub token, so no separate access token or repo secret is needed.
 
