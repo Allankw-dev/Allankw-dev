@@ -38,25 +38,21 @@ I’ve put these skills into practice through projects such as my AI Hiring Plat
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:5b00ff,100:00f7ff&section=header" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00f7ff,100:5b00ff&section=footer" /> </p>
 
 
-## 🧭 About Me.
+## 🧭 About Me
 
-- 🌍 Based in Kenya, open to remote and on-site opportunities
-
-- 📂 You can view my portfolio at [allankw-dev.github.io](https://allankw-dev.github.io)
-  
-- 🎓 Computer Science student, currently taking Advanced Database Systems and Object-Oriented System Analysis & Design
-  
-- 🚀 One example of that in practice: my <a href="https://ai-powered-hiring-system.streamlit.app"><b>AI Hiring Platform</b></a>, a full-stack app (FastAPI + Streamlit + PostgreSQL) with production-grade security like rate limiting and input sanitization
-  
-- ☁️ Hands-on with cloud infrastructure — provisioned a full Oracle Cloud environment (VCN, managed PostgreSQL, compute instance) end to end for a database systems project
-  
-- 🗄️ Comfortable across the stack: relational schema design, REST API development, deployment pipelines, and debugging real production issues (auth flows, uptime monitoring, migration headaches)
-  
-- 🤝 Open to internships and collaboration on real-world projects — I like problems with actual constraints, not just tutorials
-  
-- 💬 Happy to talk through anything from database design to deployment troubleshooting
-
----
+* 🌍 Based in Kenya, open to remote and on-site opportunities
+* 
+* 📂 Portfolio: [allankw-dev.github.io](https://allankw-dev.github.io)
+* 
+* 🎓 Computer Science student studying Advanced Database Systems and Object-Oriented System Analysis & Design
+* 
+* ☁️ Built and provisioned an Oracle Cloud environment end to end, including VCN, managed PostgreSQL, and compute infrastructure
+* 
+* 🗄️ Experienced in database design, REST APIs, deployment, authentication, monitoring, migrations, and troubleshooting
+* 
+* 🤝 Open to internships, collaborations, and opportunities to contribute to real-world software projects
+* 
+* 💬 Interested in backend development, cloud systems, databases, and practical software engineering
 
 ## 🤖 AI & Machine Learning
 
