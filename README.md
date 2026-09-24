@@ -144,18 +144,6 @@ I'm comfortable moving across the stack — from schema design to REST APIs to d
 <p align="center"> <a href="https://www.github.com/Allankw-dev"><img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black" /></a> <a href="https://www.linkedin.com/in/allan-kamau2"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a> <a href="https://www.instagram.com/Allan.k.w"><img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black" /></a> <a href="mailto:allankamau517@gmail.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" /></a> <a href="https://wa.me/254742996794"><img src="https://img.shields.io/badge/WhatsApp-00F7FF?style=for-the-badge&logo=whatsapp&logoColor=black" /></a> </p>
 
 ---
-
-
-
-This feature runs automatically once a day via GitHub Actions — you don't touch it again after setup. It uses the default GitHub token, so no separate access token or repo secret is needed.
-
-1. In your **`Allankw-dev/Allankw-dev`** profile repo, create the folder `.github/workflows/` if it doesn't already exist.
-2. Add the file `metrics.yml` (provided alongside this README — just drop it in as-is, replacing the old one if present).
-3. Commit and push. Go to the **Actions** tab of your repo and manually run the workflow once (▶️ "Run workflow") so the first SVG gets generated — after that, it runs on its own schedule.
-4. That's it — the 3D contribution calendar image URL in this README will start rendering automatically.
-
-</details>
-
 ---
 
 ## ☕ Support Me
