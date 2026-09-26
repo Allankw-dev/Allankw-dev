@@ -38,7 +38,7 @@ I’ve put these skills into practice through projects such as my AI Hiring Plat
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:5b00ff,100:00f7ff&section=header" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00f7ff,100:5b00ff&section=footer" /> </p>
 
 
-## 🧭 About Me
+## 🧭 About Me.
 
 * 🌍 Based in Kenya, open to remote and on-site opportunities
 * 
