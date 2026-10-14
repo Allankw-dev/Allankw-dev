@@ -21,38 +21,28 @@
  </p>
 
 ---
+👋 Hi, I'm Allan Kamau
 
-## 👋 Hi, I'm Allan Kamau..
+Software Engineer · Full-Stack Developer · AI/ML Builder
 
-**Software Engineer · Full-Stack Developer · AI/ML Builder**
+I'm a Computer Science student in Kenya who builds software end to end and ships it to production, from database design and backend APIs to deployment. I'm increasingly focused on bringing AI/ML into real-world products.
 
-I build practical software that turns ideas into real, working products. As a Computer Science student and Software Engineer, I focus on web, application, and backend development, with a growing focus on integrating AI/ML into real-world systems.
+Stack: Python · Java · TypeScript · FastAPI · Node.js · React · PostgreSQL · Docker · Oracle Cloud (OCI)
 
-I work with Python, Java, HTML, CSS, REST APIs, PostgreSQL, Docker, and cloud infrastructure, including Oracle Cloud (OCI). I’m comfortable across the stack—from database design and backend development to deployment.
-
-I’ve put these skills into practice through projects such as my AI Hiring Platform, built with FastAPI, Streamlit, and PostgreSQL, with secure authentication, input validation, and rate limiting.
-
-✉️ [allankamau517@gmail.com](mailto:allankamau517@gmail.com)
-
+🚀 What I've built
+Ledgr: a school fee management system with invoices, payment plans, and email and SMS reminders. React and TypeScript on Vercel, with PostgreSQL row-level security.
+AI Hiring Platform: ranks resumes with TF-IDF and cosine similarity. Built with FastAPI, Streamlit, and Supabase PostgreSQL, with JWT authentication, rate limiting, and input sanitization.
+Power Consumption DB and API: a group project where I led the Oracle Cloud deployment, including the VCN, private-subnet PostgreSQL, and an Express API on Oracle Linux.
 
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:5b00ff,100:00f7ff&section=header" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00f7ff,100:5b00ff&section=footer" /> </p>
 
-
-## 🧭 About Me.
-
-* 🌍 Based in Kenya, open to remote and on-site opportunities
-* 
-* 📂 Portfolio: [allankw-dev.github.io](https://allankw-dev.github.io)
-* 
-* 🎓 Computer Science student studying Advanced Database Systems and Object-Oriented System Analysis & Design
-* 
-* ☁️ Built and provisioned an Oracle Cloud environment end to end, including VCN, managed PostgreSQL, and compute infrastructure
-* 
-* 🗄️ Experienced in database design, REST APIs, deployment, authentication, monitoring, migrations, and troubleshooting
-* 
-* 🤝 Open to internships, collaborations, and opportunities to contribute to real-world software projects
-* 
-* 💬 Interested in backend development, cloud systems, databases, and practical software engineering
+🧭 About me
+🌍 Based in Kenya, open to remote and on-site work
+🎓 Studying Advanced Database Systems and Object-Oriented System Analysis & Design
+🤝 Looking for internships, entry-level roles, and collaboration on real-world software projects
+📂 Portfolio: allankw-dev.github.io
+💼 LinkedIn: linkedin.com/in/allan-kamau2
+✉️ Email: allankamau517@gmail.com
 
 ## 🤖 AI & Machine Learning
 
