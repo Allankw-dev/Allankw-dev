@@ -56,7 +56,7 @@ I'm a Computer Science student in Kenya who builds software end to end and ships
 
 ---
 
-## 🛠️ Featured Project
+## 🛠️ Featured Project/
 
 <p align="center">
   <a href="https://ai-powered-hiring-system.streamlit.app">
