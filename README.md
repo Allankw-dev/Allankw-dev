@@ -39,7 +39,7 @@ I'm a Computer Science student in Kenya who builds software end to end and ships
 
 ## 🧭 About me
 
-- 🌍 Based in Kenya, open to remote and on-site work
+- 🌍 Based in Kenya, open to remote globally and on-site work in my country
 - 🎓 Studying Advanced Database Systems and Object-Oriented System Analysis & Design
 - 🤝 Looking for internships, entry-level roles, and collaboration on real-world software projects
 - 📂 Portfolio: [allankw-dev.github.io](https://allankw-dev.github.io)
