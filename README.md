@@ -31,7 +31,7 @@ I'm a Computer Science student in Kenya who builds software end to end and ships
 
 ## 🚀 What I've built
 
-- **[Ledgr](https://ledgr-azure.vercel.app)**: a school fee management system with invoices, payment plans, and email and SMS reminders. React and TypeScript on Vercel, with PostgreSQL row-level security.
+- **[Ledgr](https://ledgr-azure.vercel.app)**: a multi-tenant school fee management SaaS with M-Pesa STK Push payments, automated invoicing, payment plans, and SMS/email reminders. Built with React, TypeScript, and PostgreSQL (Row-Level Security), deployed on Vercel.
 - **[AI Hiring Platform](https://ai-powered-hiring-system.streamlit.app)**: ranks resumes with TF-IDF and cosine similarity. Built with FastAPI, Streamlit, and Supabase PostgreSQL, with JWT authentication, rate limiting, and input sanitization.
 - **[Power Consumption DB and API](https://github.com/Allankw-dev/power-consumption-db-api)**: a group project where I led the Oracle Cloud deployment, including the VCN, private-subnet PostgreSQL, and an Express API on Oracle Linux.
 
