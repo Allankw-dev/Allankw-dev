@@ -32,7 +32,7 @@ I'm a Computer Science student in Kenya who builds software end to end and ships
 ## 🚀 What I've built
 
 - **[Ledgr](https://ledgr-azure.vercel.app)**: a multi-tenant school fee management SaaS with M-Pesa STK Push payments, automated invoicing, payment plans, and SMS/email reminders. Built with React, TypeScript, and PostgreSQL (Row-Level Security), deployed on Vercel.
-- **[AI Hiring Platform](https://ai-powered-hiring-system.streamlit.app)**: ranks resumes with TF-IDF and cosine similarity. Built with FastAPI, Streamlit, and Supabase PostgreSQL, with JWT authentication, rate limiting, and input sanitization.
+- **[AI Hiring Platform](https://ai-powered-hiring-system.streamlit.app)**: an end-to-end applicant tracking and resume-ranking engine powered by NLP (TF-IDF and cosine similarity) to score candidate-job fit. Built with a FastAPI REST backend, Streamlit frontend, and Supabase PostgreSQL, hardened with JWT authentication, rate limiting, and input sanitization.
 - **[Power Consumption DB and API](https://github.com/Allankw-dev/power-consumption-db-api)**: a group project where I led the Oracle Cloud deployment, including the VCN, private-subnet PostgreSQL, and an Express API on Oracle Linux.
 
 <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:5b00ff,100:00f7ff&section=header" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:00f7ff,100:5b00ff&section=footer" /> </p>
